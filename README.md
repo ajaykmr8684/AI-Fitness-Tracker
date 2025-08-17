@@ -44,9 +44,7 @@ An intelligent fitness tracking application that helps users **monitor workouts,
 - 📨 RabbitMQ (event-driven updates)  
 
 ### **AI & Data**  
-- 🤖 Python-based ML models (recommendations engine)  
-- 📊 Data pipelines for user activity analysis  
-
+- 🤖 Gemini ML models (recommendations engine)   
 ---
 
 ## 🚀 Getting Started  
